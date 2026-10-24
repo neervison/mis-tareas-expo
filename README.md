@@ -3,7 +3,7 @@
 **Código fuente:** [https://github.com/neervison/mis-tareas-expo](https://github.com/neervison/mis-tareas-expo)
 
 **Asignatura:** IF206IINF Desarrollo de Aplicaciones Móviles
-**Alumno:** Neervison Laguna
+**Integrantes:** Neervison Bonny Laguna Sánchez, Carlos Oriel Álvarez Arévalo
 **Proyecto:** Aplicación móvil de lista de tareas (To-Do List): **agregar, editar, eliminar y marcar completadas**, cada tarea con **título y descripción**.
 
 > **Elección del framework:** para este proyecto se eligió **Expo con React Native y TypeScript**. No es una elección arbitraria: la sección [¿Por qué usamos estas tecnologías?](#por-qué-usamos-estas-tecnologías) explica qué aporta cada una y por qué se usa aquí, y la tabla [Componentes de la interfaz](#componentes-de-la-interfaz-y-su-implementación-en-este-proyecto) muestra cómo se construyó cada pieza de la pantalla.
